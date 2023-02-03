@@ -2,6 +2,7 @@
   --background-color: rgb(48, 64, 87);
   --highlight: rgb(17, 236, 229);
   --text: rgb(146, 171, 207);
+  --black: rgb(0, 0, 0);
 }
 
 body {
